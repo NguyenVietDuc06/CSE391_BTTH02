@@ -1,0 +1,10 @@
+.nav-link{
+    color:black !important;
+    text-transform: uppercase;
+    font-weight: 600px;
+}
+
+.container-fluid{
+    padding:0;
+
+}
